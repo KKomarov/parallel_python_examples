@@ -1,0 +1,3 @@
+mpi4py # also http://www.mpich.org/downloads/
+numpy
+
